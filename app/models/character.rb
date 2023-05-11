@@ -19,6 +19,5 @@ class Character < ApplicationRecord
     #the_one = matching_set.at(0)
    # return the_one
  # end
-
  
 end
